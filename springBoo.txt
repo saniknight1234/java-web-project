@@ -1,0 +1,1 @@
+Spring boot is an open source framework which helps developer to build stand alone application.
